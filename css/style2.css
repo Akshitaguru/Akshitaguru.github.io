@@ -1,0 +1,15 @@
+table{
+    font-size: 20px;
+   margin-top: 10%;
+   margin-right: 20%;
+   margin-left: 20%;
+    font-style: normal;
+    
+    line-height: 5;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    word-spacing: 10px;
+    text-align: center;
+}
+td{
+    text-align: center;
+}

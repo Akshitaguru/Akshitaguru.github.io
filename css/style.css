@@ -1,0 +1,53 @@
+
+ 
+@keyframes typing {
+    from {width: 0}
+    to {width: 100}
+}
+h1{
+    font-style: italic;
+    text-align:right;
+    font-size: 60px;
+   
+    margin-top: 10%;
+    line-height: -9;
+
+  }
+  @keyframes example {
+    from {color: lemonchiffon}
+    to {color: black;}
+    
+  }
+  h1 {
+    
+    position: relative;
+  
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  h1{
+    text-shadow: 2px 2px 5px plum;
+  }
+  a{
+    font-size: 30px;
+  }
+  div{
+    color: black;
+    text-align: left;
+    line-height: normal;
+    background-color: lemonchiffon;
+  width: 250px;
+  border: 5px solid black;
+  padding: 20px;
+  margin: 40px;
+  opacity: 0.7;
+  }
+  div{
+    height: -min-content;
+  }
+
+
+  h1 {
+    text-shadow: 2px 2px 5px red;
+  }
